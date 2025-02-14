@@ -1,0 +1,4 @@
+baseURL = 'https://cuopwebsite.github.io/'
+languageCode = 'en-us'
+title = 'CUOP'
+theme = 'hugo-book'
