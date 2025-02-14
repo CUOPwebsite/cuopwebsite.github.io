@@ -2,41 +2,72 @@
 title: Introduction
 type: docs
 ---
-# CUOP
+# Cooper Union Organization of Part-Time Faculty (CUOP)
 
-In 2012, the Cooper Union Organization of Part-Time Faculty (CUOP) and
-the Cooper Union administration agreed on an initial contract. In
-2015, CUOP and Cooper Union negotiated a second contract, which was in
-effect through 2017. This was extended with modifications until August
-31, 2020 via a Memorandum of Agreement.
+We are the voice of Cooper Union's adjunct, visiting, and proportional faculty, fighting for better working conditions and fair compensation since 2012. Our story is one of continuous progress in strengthening the position of part-time faculty at Cooper Union.
 
-Highlights of the 2015 contract include:
+## Our Achievements
 
-- Raises for part-timers
-- An increased health care fund ($15,000) for adjuncts
-- A professional development fund for adjuncts
-- A requirement that 15% of adjunct faculty school-wide have multi-year contracts
-- A tier system that ensures that adjuncts' service years are credited
-  and rewarded Timely notice of appointment and reappointment
+Our 2015 contract, which set important precedents for part-time faculty rights, secured:
 
-CUOP represents and negotiates on behalf of a bargaining unit
-consisting of all adjunct, visiting, and proportional faculty
-members. Dues or agency fees are automatically deducted from
-bargaining unit members’ salaries: part-timers who prefer not to join
-CUOP have agency fees deducted from their salaries. But a union is as
-strong as its members, and we strongly urge you to fill out your
-membership forms and authorize dues payments, not agency fees.
+* Meaningful salary increases that recognize the value our part-time
+  faculty brings to Cooper Union's educational excellence
+* A substantial $15,000 healthcare fund, addressing one of the most
+  pressing needs of adjunct faculty members
+* Investment in our members' growth through a dedicated professional
+  development fund
+* Job security through guaranteed multi-year contracts for 15% of
+  adjunct faculty
+* A fair tier system that values and rewards years of service to the
+  institution
+* Clear and timely communication about appointments and reappointments
 
-Union membership entitles you to vote in elections, hold union office,
-have a voice in meetings and negotiations, and participate in NYSUT’s
-benefits programs. You should receive a union membership form (which
-includes dues authorization) when you receive your hire/re-hire letter
-from Human Resources. You can also download the form. Be sure to fill
-out BOTH parts of the form.
+## Membership Benefits
 
-We are always looking for member involvement in all faculties. For
-more information about CUOP and/or to get involved, contact
-cooperunionparttimefaculty@gmail.com
+When you join CUOP, you become part of a community dedicated to
+improving higher education at Cooper Union. Membership gives you:
 
-CUOP, CUFCT, and U@CU are all local affiliates of New York State
-United Teachers.
+* A direct voice in shaping your working conditions through voting
+  rights in union elections
+* The opportunity to serve in union leadership positions
+* Active participation in meetings and contract negotiations
+* Access to valuable NYSUT programs
+
+## Join Our Community
+
+While all part-time faculty contribute through either dues or agency
+fees, full membership empowers you to shape the future of our
+workplace. New faculty members should receive a membership form with
+their hire letter, but you can also download it anytime. Remember to
+complete both sections of the form to activate your full membership
+benefits.
+
+## Get Involved
+
+The strength of our union lies in active participation. Whether you
+teach in art, architecture, engineering, or humanities, your voice
+matters. We're always eager to welcome new members who want to
+contribute to our mission.
+
+
+## Connect With Us
+* Email: cooperunionparttimefaculty@gmail.com
+* We are proudly affiliated with New York State United Teachers
+  (NYSUT), alongside our sister unions CUFCT and U@CU
+
+## Officers
+
+**President**: [Scott Nobles](https://cooper.edu/art/people/scott-nobles), School of Art
+
+**Vice President**: *vacant*
+
+**Secretary**: [Lea Cetera](https://cooper.edu/art/people/lea-cetera), School of Art
+
+**Treasurer**: [Jen Williams](https://cooper.edu/art/people/jennifer-williams), School of Art
+
+## Executive Board; Area Representatives
+
+### Art 
+### Architecture
+### Engineering
+### HSS
