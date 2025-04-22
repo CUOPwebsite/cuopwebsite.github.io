@@ -64,10 +64,3 @@ contribute to our mission.
 **Secretary**: [Lea Cetera](https://cooper.edu/art/people/lea-cetera), School of Art
 
 **Treasurer**: [Jen Williams](https://cooper.edu/art/people/jennifer-williams), School of Art
-
-## Executive Board; Area Representatives
-
-### Art 
-### Architecture
-### Engineering
-### HSS
