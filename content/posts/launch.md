@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Site Launch"
 date: 2025-04-22T15:56:22-04:00
 # bookComments: false
 # bookSearchExclude: false
