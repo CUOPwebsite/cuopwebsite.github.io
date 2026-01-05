@@ -59,8 +59,8 @@ contribute to our mission.
 
 **President**: [Scott Nobles](https://cooper.edu/art/people/scott-nobles), School of Art
 
-**Vice President**: *vacant*
+**Vice President**: [Lea Cetera](https://cooper.edu/art/people/lea-cetera), School of Art
 
-**Secretary**: [Lea Cetera](https://cooper.edu/art/people/lea-cetera), School of Art
+**Secretary**: [Jess Kuronen](https://cooper.edu/academics/people/jess-kuronen), School of Art
 
 **Treasurer**: [Jen Williams](https://cooper.edu/art/people/jennifer-williams), School of Art
